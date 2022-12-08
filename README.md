@@ -5,6 +5,6 @@
 - 👊 I am a research intern at Dr. Zichun Zhong's lab in WSU. 
 - 🌱 I’m interested in VR and game development.
 - 😎 I'm familiar with Unity and C#
-- 💞️ I’m looking to collaborate on Unity.
+- 💞️ I'm looking for someone to work on a game or graphics-related project.
 - 📫 How to reach me: yhs06072@naver.com
 
